@@ -1,4 +1,0 @@
-Bundle-Name: sample
-Bundle-SymbolicName: com.sampler.portlet
-Bundle-Version: 1.0.0
-Export-Package: com.sampler.portlet.constants

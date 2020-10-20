@@ -1,7 +1,0 @@
-create-new-portlet=false
-default-liferay-version-option=7.2
-default-plugin-project-maven-groupid=com.liferay.spring
-eclipse.preferences.version=1
-include-sample-code=true
-project-module-default-build-type-option=gradle-module
-project-plugin_default-build-type-option=maven

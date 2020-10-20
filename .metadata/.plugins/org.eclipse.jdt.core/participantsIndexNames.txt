@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\Rasulov Nodir\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1978654632.index
-\calcMVCliferayPortlet\src\main\java
-C:\Users\Rasulov Nodir\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1006601263.index
-\SpringMVCliferayportler\src\main\java
-C:\Users\Rasulov Nodir\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2673375183.index
-\calc_test1\src\main\java
